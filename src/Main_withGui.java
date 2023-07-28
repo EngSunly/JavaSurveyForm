@@ -12,7 +12,6 @@ public class Main_withGui extends Frame
     //Gui constructor
     Main_withGui()
     {
-
         // close form
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent we){
